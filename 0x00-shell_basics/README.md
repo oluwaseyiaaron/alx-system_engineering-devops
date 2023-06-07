@@ -3,7 +3,7 @@
 2-task: to change to the home directory
 3-task: display content in long format
 4-task: display content include hidden files
-5-task: 
+5-task: Display current directory contents.
 6-task: create a directory in the /tmp directory
 7-task: moves files
 8-task: deletes file
