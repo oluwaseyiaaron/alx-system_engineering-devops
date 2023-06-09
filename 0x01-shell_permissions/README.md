@@ -12,3 +12,4 @@ TASKS DONE/n
 10-task:664 permission
 11-task: add execution to all the diectory
 12-task: make dir with permission
+13-task: change group owner
