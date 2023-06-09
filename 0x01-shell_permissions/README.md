@@ -11,3 +11,4 @@ TASKS DONE/n
 9-task: 753 permission
 10-task:664 permission
 11-task: add execution to all the diectory
+12-task: make dir with permission
