@@ -13,3 +13,4 @@ TASKS DONE/n
 11-task: add execution to all the diectory
 12-task: make dir with permission
 13-task: change group owner
+100-task: change the group and owner of a file or directory
