@@ -5,3 +5,4 @@ TASKS DONE
 3-task: To change the owner of a file
 4-task: To create and empty file
 5-task: Add execute permission to the owner of a file
+6-task: Add multiple permission
