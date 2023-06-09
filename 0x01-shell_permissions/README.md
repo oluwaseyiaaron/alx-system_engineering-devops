@@ -6,3 +6,4 @@ TASKS DONE
 4-task: To create and empty file
 5-task: Add execute permission to the owner of a file
 6-task: Add multiple permission
+7-task: add execute permission to all
