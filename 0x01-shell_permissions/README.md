@@ -14,3 +14,4 @@ TASKS DONE/n
 12-task: make dir with permission
 13-task: change group owner
 100-task: change the group and owner of a file or directory
+change the owner and group of a symbolic link
