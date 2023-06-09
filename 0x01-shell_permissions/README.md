@@ -10,3 +10,4 @@ TASKS DONE/n
 8-task: that sets the permission to the file hello
 9-task: 753 permission
 10-task:664 permission
+11-task: add execution to all the diectory
