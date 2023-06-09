@@ -8,3 +8,4 @@ TASKS DONE/n
 6-task: Add multiple permission
 7-task: add execute permission to all
 8-task: that sets the permission to the file hello
+9-task: 753 permission
