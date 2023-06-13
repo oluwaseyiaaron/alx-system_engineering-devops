@@ -7,3 +7,5 @@
 6-Task: A script that display the 3rd line of a file
 7-Task: A script to create a file
 8-Task: A script to redirect the ls -la command into a file
+9-Task: To duplicate the last line of a file
+10-Task: To delete all .js files
