@@ -4,3 +4,4 @@
 3-Task: A script to display the content of 2 files
 4-Task: A script that display the last 10 lines of a file
 5-Task: A script that display the first 10 lines of a file
+6-Task: A script that display the 3rd line of a file
