@@ -6,3 +6,4 @@
 5-Task: A script that display the first 10 lines of a file
 6-Task: A script that display the 3rd line of a file
 7-Task: A script to create a file
+8-Task: A script to redirect the ls -la command into a file
