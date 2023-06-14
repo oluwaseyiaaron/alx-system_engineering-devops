@@ -9,3 +9,5 @@
 8-Task: A script to redirect the ls -la command into a file
 9-Task: To duplicate the last line of a file
 10-Task: To delete all .js files
+11-Task: To count the number of directories ans subdirectories
+12-Task: To display the 10 newest files in a directory
